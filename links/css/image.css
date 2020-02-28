@@ -1,0 +1,10 @@
+/* Image style */
+#scrollUp {
+    background-image: url("../../img/move-up.png");
+    bottom: 30px;
+    right: 20px;
+    width: 38px;    /* Width of image */
+    height: 38px;   /* Height of image */
+    text-indent: -9999px;
+    background-repeat: no-repeat;
+}
